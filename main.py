@@ -1,5 +1,3 @@
-Python Developer notes
-10 May 2021 
 ________________________________________
 # Create a dictionary in a list with specific key and value pair
 
